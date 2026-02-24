@@ -1,0 +1,20 @@
+1. git init
+2. git status
+3. git add <filename>
+4. git rm --cached <filename>
+5. git restore <filename>
+6. git add *
+7. git rm --cached * -r
+8. git add -A
+9. git rm --cached * -f
+10. git config --list
+11. git config user.name " "
+12. git config user.email  " "
+13. git commit -m "<message>"
+14. git log
+15. git diff
+16. git diff <Commit-id>
+17. git diff --staged
+17. git show       - diff between lates and prev commit
+18. git reset <Commit-id>
+19. git reset <Comit-id> --hard
