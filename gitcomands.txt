@@ -13,8 +13,13 @@
 13. git commit -m "<message>"
 14. git log
 15. git diff
-16. git diff <Commit-id>
+16. git diff <commit-id>
 17. git diff --staged
 17. git show       - diff between lates and prev commit
-18. git reset <Commit-id>
-19. git reset <Comit-id> --hard
+18. git reset <commit-id>
+19. git reset <commit-id> --hard
+20. git remote -v
+21. git remote add origin <Github-repo-link>
+22. git push origin master
+23. git pull origin master
+24. git clone <git repo url>
