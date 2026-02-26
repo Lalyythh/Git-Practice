@@ -25,3 +25,7 @@ git commands
 25. git push origin master - it will push your source code the remote repository
 26. git pull origin master - it will download all the source files in the newly created project folder or existing folder
 27. git clone <git repository url> - It will download the source code repository without creating the link with local repository
+28. git branch - It will list all the branches in git
+29. git checkout <branchname> - It will checkout to a given branchname
+30. git branch <branchname> - It will create a new branch with given branchname
+31. git branch -d <branchname> = It will delete the branchname from git 
